@@ -2,3 +2,5 @@ Daftar kontribusi:
  
 - [ Fara] Anggota 2 menambahkan satu baris teks di 
 sini. 
+
+[Fatin] Anggota 1 menambahkan satu baris di sini.
