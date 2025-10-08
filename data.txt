@@ -1,4 +1,4 @@
 Daftar kontribusi: 
  
-- [Fara] Anggota 2 menambahkan satu baris teks di 
+- [ Fara] Anggota 2 menambahkan satu baris teks di 
 sini. 
